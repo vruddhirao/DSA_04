@@ -41,7 +41,7 @@ R-squared (R²): 0.906
 
 These results indicate that the model explains approximately 90.6% of the variance in sales, which is quite good.
 
-Conclusion
+# Conclusion
 This project demonstrates how to use machine learning techniques to predict sales based on advertising expenditures. 
 The linear regression model provides a good fit with an R² value of approximately 0.906.
 
